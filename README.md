@@ -1,7 +1,8 @@
 # Página de Login e Cadastro Moderna
-Este projeto consiste em uma página de Login e Cadastro moderna e responsiva, desenvolvida com HTML e CSS. O design é limpo, intuitivo e visualmente atraente, com foco na experiência do usuário. O código foi estruturado de forma organizada para facilitar a manutenção e escalabilidade.
+Este projeto consiste em uma página de Login e Cadastro moderna, desenvolvida com HTML e CSS. O design é limpo, intuitivo e visualmente atraente, com foco na experiência do usuário. O código foi estruturado de forma organizada para facilitar a manutenção e escalabilidade.
 
 ## Funcionalidades
+
 Design Moderno: Layout limpo e minimalista, com cores e efeitos visuais agradáveis.
 
 Responsividade: A página se adapta a diferentes tamanhos de tela (desktop, tablet e mobile).
