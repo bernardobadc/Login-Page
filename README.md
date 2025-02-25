@@ -26,8 +26,6 @@ login-page/
 ├── assets/                 # Pasta para armazenar imagens e ícones
 │   ├── login-de-usuario.png# Imagem do ícone de usuário
 │   └── icone.png           # Ícone da página de Cadastro
-├── scripts/                # Pasta para scripts JavaScript (se necessário)
-│   └── script.js           # Exemplo de arquivo JavaScript (não implementado)
 └── README.md               # Documentação do projeto
 
 ## Como Usar
